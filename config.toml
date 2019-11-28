@@ -1,0 +1,21 @@
+publishDir = "docs"
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Computer Science Teaching Methodology."
+
+theme = "hyde"
+enableGitInfo = false
+
+[params]
+  description = "Computing Education. Course didactics."
+  themeColor = "theme-base-0d"
+  layoutReverse = true
+  copyright = " "
+
+[Menus]
+  main = [
+      {Name = "Verslagen", URL = "/reports"},
+      {Name = "Onderzoek", URL = "/research"},
+      {Name = "Leden", URL = "/members"}
+  ]
