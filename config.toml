@@ -19,8 +19,3 @@ enableGitInfo = false
       {Name = "Onderzoek", URL = "/research"},
       {Name = "Leden", URL = "/members"}
   ]
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
