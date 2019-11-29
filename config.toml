@@ -1,4 +1,4 @@
-publishDir = "docs"
+publishDir = "public_html"
 
 baseURL = "/"
 languageCode = "en-us"
@@ -19,3 +19,8 @@ enableGitInfo = false
       {Name = "Onderzoek", URL = "/research"},
       {Name = "Leden", URL = "/members"}
   ]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
