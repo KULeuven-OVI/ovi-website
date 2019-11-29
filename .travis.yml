@@ -29,6 +29,6 @@ deploy:
   script:
     #- rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/docs ${SSH_USERNAME}@$SERVER:/home/${SSH_USERNAME}/
     #- scp dist/* ${SSH_USERNAME}@$SERVER:/home/${SSH_USERNAME}
-    - tar czf - docs/* | ssh ${SSH_USERNAME}@$SERVER 'sg oviwwwg && cd /cw/vwww/ovi/public_html && tar xzvf -
+    - tar czf - docs/* | ssh ${SSH_USERNAME}@$SERVER 'cd /cw/vwww/ovi/public_html && sg oviwwwg "tar xzvf -"'
   on:
     branch: master
