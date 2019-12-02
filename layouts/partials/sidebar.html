@@ -18,16 +18,21 @@
 
   </div>
   <div class="container sidebar-sticky">
-      <img src="https://wgroeneveld.github.io/phd/img/kul.svg" style="max-width: 150px;"/>
-      <img src="https://avatars1.githubusercontent.com/u/58298514?s=200&v=4"/>
+      <a href="https://kuleuven.be" target="_blank">
+        <img src="/img/kul.svg" />
+      </a>
+      <a href="https://cs.kuleuven.be" target="_blank">
+        <img src="/img/cs.png" />
+      </a>
     <p class="langlinks">
       <!-- copyright originally came in here -->
-      <a href="/">English</a> | <a href="/nl/">Nederlands</a>
+      <a href="{{ .Site.Params.urlEnglish }}">English</a> | <a href="{{ .Site.Params.urlNederlands }}">Nederlands</a>
       <script>
         (() => {
           const nlsite = 'ovi.cs.'
-          if(document.location.href.includes(nlsite) && !document.location.href.includes('/nl/')) {
-            document.location.href = document.location.href + '/nl/'
+          const href = document.location.href
+          if(href.includes(nlsite) && !href.includes('/nl')) {
+            document.location.href = href + (href.endsWith('/') ? '' : '/') + 'nl/'
           }
         })()
       </script>

@@ -7,15 +7,17 @@ baseURL = "/"
 [params]
   themeColor = "theme-base-0d"
   layoutReverse = true
+  urlEnglish = "https://cstm.cs.kuleuven.be/"
+  urlNederlands = "https://ovi.cs.kuleuven.be/nl/"
 
 DefaultContentLanguage = "en"
 
 [languages]
 	[languages.nl]
-		title = "Onderwijs Vakdidactiek Informatica."
+		title = "Onderwijs, Vakdidactiek Informatica."
 		languagename = "Nederlands"
 		[languages.nl.params]
-			description = "Informatica onderwijs. Vakdidactiek CW."
+			description = "Onderwijsmethodologie. Vakdidactiek CW."
 			TrContents = "Inhoud"
 		[languages.nl.Menus]
 		  main = [
