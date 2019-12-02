@@ -2,8 +2,6 @@
 title: 'Index'
 ---
 
-# Hallo Jo
-
 # Missie
 
 De onderzoeksgroep "Onderwijsmethodologie en Vakdidactiek Informatica" verenigt onderzoekers met interesse voor alle aspecten van onderwijs in de informaticawetenschappen waaronder het inrichten van nascholingsactiviteiten over informatica en computationeel denken voor leraren in het leerplichtonderwijs, het ondersteunen en mee uitwerken van een beleid terzake, onderzoek naar best practices voor specifieke leeronderwerpen en de rol van informaticawetenschappen binnen iSTEM, en deelname aan schoolse activiteiten. OVI is betrokken bij de lerarenopleiding aan de KU Leuven en wil een brede waaier van initiatieven, ook op het niveau van het hoger onderwijs, een gemeenschappelijke zichtbaarheid bieden.
