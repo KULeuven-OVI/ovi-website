@@ -10,17 +10,27 @@
 
     <nav>
       <ul class="sidebar-nav">
-        <li><a href="{{ .Site.BaseURL }}">Home</a> </li>
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}
       </ul>
     </nav>
 
-    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p>
   </div>
   <div class="container sidebar-sticky">
       <img src="https://wgroeneveld.github.io/phd/img/kul.svg" style="max-width: 150px;"/>
       <img src="https://avatars1.githubusercontent.com/u/58298514?s=200&v=4"/>
+    <p class="langlinks">
+      <!-- copyright originally came in here -->
+      <a href="/">English</a> | <a href="/nl/">Nederlands</a>
+      <script>
+        (() => {
+          const nlsite = 'ovi.cs.'
+          if(document.location.href.includes(nlsite) && !document.location.href.includes('/nl/')) {
+            document.location.href = document.location.href + '/nl/'
+          }
+        })()
+      </script>
+    </p>
   </div>  
 </aside>
