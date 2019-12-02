@@ -1,21 +1,39 @@
 publishDir = "public_html"
 
-baseURL = "/"
-languageCode = "en-us"
-title = "Computer Science Teaching Methodology."
-
 theme = "hyde"
 enableGitInfo = false
 
 [params]
-  description = "Computing Education. Course didactics."
   themeColor = "theme-base-0d"
   layoutReverse = true
-  copyright = " "
 
-[Menus]
-  main = [
-      {Name = "Verslagen", URL = "/reports"},
-      {Name = "Onderzoek", URL = "/research"},
-      {Name = "Leden", URL = "/members"}
-  ]
+DefaultContentLanguage = "en"
+
+[languages]
+	[languages.nl]
+		title = "Onderwijs Vakdidactiek Informatica."
+		baseURL = "https://ovi.cs.kuleuven.be"
+		[languages.nl.params]
+			description = "Informatica onderwijs. Vakdidactiek CW."
+			copyright = "Copy NL!"
+			TrContents = "Inhoud"
+		[languages.nl.Menus]
+		  main = [
+		      {Name = "Verslagen", URL = "/nl/verslagen"},
+		      {Name = "Onderzoek", URL = "/nl/onderzoek"},
+		      {Name = "Leden", URL = "/nl/leden"}
+		  ]
+
+	[languages.en]
+		title = "Computer Science Teaching Methodology."
+		baseURL = "https://cstm.cs.kuleuven.be"
+		[languages.en.params]
+			description = "Computing Education. Course didactics."
+			copyright = "Copy!"
+			TrContents = "Contents"
+		[languages.en.Menus]
+		  main = [
+		      {Name = "Reports", URL = "/reports"},
+		      {Name = "Research", URL = "/research"},
+		      {Name = "Members", URL = "/members"}
+		  ]
