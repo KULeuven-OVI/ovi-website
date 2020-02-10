@@ -12,6 +12,12 @@ baseURL = "/"
 
 DefaultContentLanguage = "en"
 
+# for new Hugo 0.6x, markup changed to CommonMark.
+[markup]
+	defaultMarkdownHandler = "blackfriday"
+	[markup.blackFriday]
+		skipHTML = false
+
 [languages]
 	[languages.nl]
 		title = "Onderwijs, Vakdidactiek Informatica."
