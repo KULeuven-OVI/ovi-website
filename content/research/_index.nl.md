@@ -6,7 +6,7 @@ title: Onderzoek
 
 ### 2021
 
-Groeneveld, W., Luyten, L, Aerts. K, Vennekens, J. **[Exploring the Role of Creativity in Software Engineering](https://people.cs.kuleuven.be/~wouter.groeneveld/creafocus/)**. In: 021 IEEE/ACM 43nd International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS). Presented at the 43rd International Conference on Software Engineering: Software Engineering in Society, Madrid, Spain, 25 May 2021-28 May 2021. ([arXiv Preprint](https://arxiv.org/abs/2101.00837))
+Groeneveld, W., Luyten, L., Vennekens, J., Aerts. K. **[Exploring the Role of Creativity in Software Engineering](https://people.cs.kuleuven.be/~wouter.groeneveld/creafocus/)**. In: 021 IEEE/ACM 43nd International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS). Presented at the 43rd International Conference on Software Engineering: Software Engineering in Society, Madrid, Spain, 25 May 2021-28 May 2021. ([arXiv Preprint](https://arxiv.org/abs/2101.00837))
 
 ### 2020
 
