@@ -4,7 +4,13 @@ title: Onderzoek
 
 ## Onderzoek
 
+### 2021
+
+Groeneveld, W., Luyten, L, Aerts. K, Vennekens, J. **[Exploring the Role of Creativity in Software Engineering](https://people.cs.kuleuven.be/~wouter.groeneveld/creafocus/)**. In: 021 IEEE/ACM 43nd International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS). Presented at the 43rd International Conference on Software Engineering: Software Engineering in Society, Madrid, Spain, 25 May 2021-28 May 2021. ([arXiv Preprint](https://arxiv.org/abs/2101.00837))
+
 ### 2020
+
+Groeneveld, W., Vennekens, J., Aerts, K. **[Engaging Software Engineering Students in Grading: The effects of peer assessment on self-evaluation, motivation, and study time](https://lirias.kuleuven.be/retrieve/596513)**. In: Proceedings of the 48th SEFI Conference 2020: vol. 48, (799-809). Presented at the 48th SEFI Annual Conference, Enschede, The Netherlands. 
 
 Groeneveld, W., Becker, B., Vennekens, J. **[Soft Skills: What do Computing Program Syllabi Reveal About Non-Technical Expectations of Undergraduate Students?](https://dl.acm.org/doi/pdf/10.1145/3341525.3387396)** In: Proceedings of the 25th annual conference on Innovation and Technology in Computer Science Education. Presented at the ITiCSE '20, Trontheim, Norway. ([video presentation](https://drive.google.com/file/d/1uYR8_EIVWhAiNjny_lBfBPCsy3hb0TcL/view?usp=sharing))
 
@@ -20,6 +26,7 @@ Groeneveld, W., Vennekens, J., Aerts, K. (2019). **[Software Engineering Educati
 
 
 ### 2018
+
 Van de Staey Z, Verlinde T, Demoen B, Martens B. **[Co-De: an Online
 Learning Platform for Computational Thinking](https://dl.acm.org/doi/abs/10.1145/3265757.3265790)** 13th Workshop in Primary
 and Secondary Computing Education (WiPSCE), Potsdam, GERMANY, 04 Oct
@@ -30,9 +37,20 @@ Proceeding) View record in Web of Science
 
 
 ### 2017
+
 Martens B, Demoen B, Karpez F, Vandenhove D, Van Loon K. **[Bringing
 algorithms to Flemish classrooms: Teaching the teachers, and some
 students](https://dl.acm.org/doi/abs/10.1145/3137065.3137070)** WiPSCE , Nijmegen, 08 Nov 2017 - 10 Nov 2017. Editors:
 Barendsen, Erik, Hubwieser, Peter. Proceedings of the 12th Workshop on
 Primary and Secondary Computing Education . ACM, New York,
 USA. 103-104. 08 Nov 2017 (Conference Proceeding)
+
+### 2014
+
+Ruth Cardinaels, Elke De Smedt en Bern Martens, **ICT-competenties als middel en doel in de lessen natuurwetenschappen van de derde graad ASO**, Impuls voor onderwijsbegeleiding 44(1), Acco, Leuven, 2013, blzn. 40-51.
+
+### 2013
+
+Bern Martens en Tom Hofkens, **Positioning Computer Science in Flemish K-12 Education: a Reflection**, in Proceedings of WIPSCE 2013, Aarhus, Denmark, november 2013, ACM Digital Library.
+
+Francis wyffels, Bern Martens en Stefan Lemmens, **Starting from Scratch: Experimenting with Computer Science in Flemish Secondary Education**, in Proceedings of WIPSCE 2014, Berlin, Germany, november 2014, ACM Digital Library.
