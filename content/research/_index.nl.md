@@ -47,10 +47,10 @@ USA. 103-104. 08 Nov 2017 (Conference Proceeding)
 
 ### 2014
 
-Ruth Cardinaels, Elke De Smedt en Bern Martens, **ICT-competenties als middel en doel in de lessen natuurwetenschappen van de derde graad ASO**, Impuls voor onderwijsbegeleiding 44(1), Acco, Leuven, 2013, blzn. 40-51.
+Francis wyffels, Bern Martens en Stefan Lemmens, **Starting from Scratch: Experimenting with Computer Science in Flemish Secondary Education**, in Proceedings of WIPSCE 2014, Berlin, Germany, november 2014, ACM Digital Library.
 
 ### 2013
 
 Bern Martens en Tom Hofkens, **Positioning Computer Science in Flemish K-12 Education: a Reflection**, in Proceedings of WIPSCE 2013, Aarhus, Denmark, november 2013, ACM Digital Library.
 
-Francis wyffels, Bern Martens en Stefan Lemmens, **Starting from Scratch: Experimenting with Computer Science in Flemish Secondary Education**, in Proceedings of WIPSCE 2014, Berlin, Germany, november 2014, ACM Digital Library.
+Ruth Cardinaels, Elke De Smedt en Bern Martens, **ICT-competenties als middel en doel in de lessen natuurwetenschappen van de derde graad ASO**, Impuls voor onderwijsbegeleiding 44(1), Acco, Leuven, 2013, blzn. 40-51.
